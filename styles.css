@@ -67,8 +67,8 @@ ul, ol {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: white;
-    color: blue;
+    background-color: #ff6347;
+    color: #333;
     position: fixed;
     bottom: 0;
     width: 100%;
