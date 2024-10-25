@@ -69,7 +69,7 @@ footer {
     padding: 10px;
     background-color: #ff6347;
     color: black;
-    position: fixed;
+    /* position: fixed; */
     bottom: 0;
     width: 100%;
 }
